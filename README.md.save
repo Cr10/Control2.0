@@ -1,0 +1,10 @@
+Control2
+
+-global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+
+Cristian Palma Palomino
+
+Palma.cr10@gmail.com
+
